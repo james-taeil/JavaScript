@@ -1,1 +1,3 @@
-# JavaScript
+# JavaScript 공부
+
+이 저장소는 알고리즘 및 자료구조의 대한 개인 공부와 TIL의 정보가 있습니다.

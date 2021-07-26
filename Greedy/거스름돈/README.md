@@ -8,3 +8,6 @@ price는 상수로 10이상 10000미만의 정수라고 가정한다.
 
 ## 출력
 최소한의 동전을 정수형으로 출력!
+
+참고 문제
+[BOJ 거스름돈](https://github.com/james-taeil/JavaScript/tree/main/Greedy/%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88/change)
